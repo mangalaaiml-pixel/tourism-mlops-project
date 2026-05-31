@@ -34,4 +34,3 @@ if st.button("Predict"):
         st.error(
             "Customer unlikely to purchase package"
         )
-        
